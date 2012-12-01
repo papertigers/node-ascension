@@ -1,4 +1,6 @@
 node-ascension
 ==============
 
-Ascension music player.  
+*Ascension Music Player.*
+
+This music player is inspired by Ampache and Google Music.

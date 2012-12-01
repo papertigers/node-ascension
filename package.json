@@ -1,0 +1,20 @@
+{
+  "name": "Acension",
+  "description": "Music server styled after ampache and google music",
+  "author": "Michael Zeller <mike@mikezeller.net> (http://lightsandshapes.com)",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/bahamas10/node-musicnamer.gi://github.com/papertigers/node-ascension",
+    "type": "git"
+  },
+  "dependencies": {
+    "musicmetadata": "~ 0.2.0",
+    "async":	              
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [ "music", "organize", "mp3", "flac", "ampache" ]
+}
