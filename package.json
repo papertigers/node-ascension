@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "musicmetadata": "~ 0.2.0",
-    "async":	              
+    "async":	     "latest"         
   },
   "devDependencies": {},
   "optionalDependencies": {},
