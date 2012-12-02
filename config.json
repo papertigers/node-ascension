@@ -1,0 +1,6 @@
+{
+  "user": "username",
+  "password": "password",
+  "formats":  ["mp3", "flac", "ogg", "m4a", "wav" ],
+  "collections": ["/Users/link/Music/iTunes/iTunes Media/Music"]
+}
